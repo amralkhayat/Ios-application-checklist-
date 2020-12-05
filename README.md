@@ -1,4 +1,35 @@
 
                                                IOS  APPLICATION  CHECKLIST 
 
+
+1- DESIGN PATTERN 
+
+  * MVC
+  * MVVM
+  * VIP
+  * VIPER
+  
+  
+2- DESIGN SYSTEM 
+ 
+ * COLORS 
+ * TYPOGRAPHY
+ 
+3- UI DESIGN
+
+* STORYBOARD 
+* NIBS
+* PROGRAMMATICALY
+* SWIFT UI 
                                 
+4- LOCAL DATABASE 
+
+* CORE DATA
+* RELAM
+* USER DEFAULT 
+* KEYCHAIN 
+* SQLITE
+
+5- REMOTE DATABASE 
+* REST API
+* FIRBASE 

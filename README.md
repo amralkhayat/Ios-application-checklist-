@@ -1,8 +1,10 @@
 
                                                IOS  APPLICATION  CHECKLIST 
+1- LANGUAGE   
+* SWIFT 
+* OBJECTIVE- C 
 
-
-1- DESIGN PATTERN 
+2- DESIGN PATTERN 
 
   * MVC
   * MVVM
@@ -10,19 +12,19 @@
   * VIPER
   
   
-2- DESIGN SYSTEM 
+3- DESIGN SYSTEM 
  
  * COLORS 
  * TYPOGRAPHY
  
-3- UI DESIGN
+4- UI DESIGN
 
 * STORYBOARD 
 * NIBS
 * PROGRAMMATICALY
 * SWIFT UI 
                                 
-4- LOCAL DATABASE 
+5- LOCAL DATABASE 
 
 * CORE DATA
 * RELAM
@@ -30,6 +32,6 @@
 * KEYCHAIN 
 * SQLITE
 
-5- REMOTE DATABASE 
+6- REMOTE DATABASE 
 * REST API
 * FIRBASE 

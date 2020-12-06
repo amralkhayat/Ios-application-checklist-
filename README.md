@@ -16,6 +16,8 @@
  
  * COLORS 
  * TYPOGRAPHY
+ * swiftlint
+ * raywenderlich style guide 
  
 4- UI DESIGN
 

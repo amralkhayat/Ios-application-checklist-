@@ -1,5 +1,5 @@
 
-                                               IOS  APPLICATION  CHECKLIST 
+                                            IOS  APPLICATION  CHECKLIST 
 1- LANGUAGE   
 * SWIFT 
 * OBJECTIVE- C 

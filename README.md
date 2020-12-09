@@ -45,4 +45,25 @@
 * KEYCHAIN 
 * NSCACHE
 
+6- Version Control 
+* Git
+* Cvs
+* SVn
+* mercurial 
+
+7- Remote Repositories
+* GitHub 
+* bitbucket 
+* Gitlab
+
+8- Project Management tools
+* Trello 
+* Jira 
+
+9- Methodology types
+* Scrum 
+* Kanaben 
+
+10 - Code review 
+* Codacy 
 
